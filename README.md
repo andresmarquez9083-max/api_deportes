@@ -1,5 +1,6 @@
 API Deportiva – Documentación del Contrato
  Descripción general
+
 ¿Qué hace la API?
 
 La API Deportiva es un servicio REST desarrollado en Python con FastAPI que permite consultar información de ligas deportivas de fútbol.
@@ -10,22 +11,17 @@ La API actúa como una capa intermedia que consume datos desde una API pública 
 La API retorna información relevante de ligas deportivas, incluyendo:
 
 Identificador de la liga
-
 Nombre de la liga
-
 Tipo de deporte
-
 País al que pertenece la liga
 
-¿Para qué sirve?
 
+¿Para qué sirve?
 Esta API puede ser utilizada en:
 
-Proyectos académicos
-
-Aplicaciones deportivas
-
-Sistemas de consulta de estadísticas
+-Proyectos académicos
+-Aplicaciones deportivas
+-Sistemas de consulta de estadísticas
 
 Ejemplos prácticos de consumo de APIs externas
 
